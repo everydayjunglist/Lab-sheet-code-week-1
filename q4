@@ -1,0 +1,3 @@
+num1 = int(input("Hi whats your first number?"))
+num2 = int(input("And your second?"))
+print("And your awnser is:",num1+num2)
